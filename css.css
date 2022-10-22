@@ -1,3 +1,8 @@
 * { 
     font-size: 16px;
   }
+
+  .submit{
+    height: 60px;
+    width: 60px;
+}
